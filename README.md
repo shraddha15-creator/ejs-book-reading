@@ -3,5 +3,5 @@
 
 Chapter | Completed/Not completed
 ------------ | -------------
-Introduction | []
-Values, Types, and Operators | []
+Introduction | -[]
+Values, Types, and Operators |-[]
