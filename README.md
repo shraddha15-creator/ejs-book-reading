@@ -3,6 +3,7 @@
 
 Chapter | Completed/Not completed
 ------------ | -------------
-Introduction | - [ ]
-Values, Types, and Operators |- [ ]
-- [x]
+Introduction | - 
+Values, Types, and Operators |
+Programm Structure | - 
+Functions |
