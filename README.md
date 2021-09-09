@@ -5,4 +5,4 @@ Chapter | Completed/Not completed
 ------------ | -------------
 Introduction | - [ ]
 Values, Types, and Operators |- [ ]
-- [ ] 
+- [x]
